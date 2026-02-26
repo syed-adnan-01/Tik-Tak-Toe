@@ -1,1 +1,1 @@
-## This is a simple Tik-tak-toe game
+# This is a simple Tik-tak-toe game
