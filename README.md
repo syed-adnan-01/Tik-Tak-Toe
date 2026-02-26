@@ -26,12 +26,8 @@ A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 ---
 
 ## 📂 Project Structure
-tic-tak-toe/
-│
-├── index.html
-├── style.css
-├── app.js
-└── README.md
+<img width="189" height="193" alt="image" src="https://github.com/user-attachments/assets/e58293ff-f191-4366-9d80-f2e034b5e59a" />
+
 
 ---
 
